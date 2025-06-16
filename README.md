@@ -1,20 +1,6 @@
 # cyber-homelab
 My name is Neil Chavis, and I'm an aspiring SOC Analyst. I'm dedicated to mastering core blue team practices through hands-on, structured learning. This portfolio showcases my work across detection strategies, threat intelligence, log analysis, SIEM tools, and incident response workflows. My goal is to build real-world competency in detection and defense, and every project represents progress toward that mission.
 
-## 🔧 Tools I’m Using
-- **Nmap** – Network scanning, port discovery, and service enumeration
-- **Wireshark** – Deep packet inspection and PCAP analysis
-- **Metasploit** – Exploitation framework for testing detection and defense
-- **ELK Stack (Elasticsearch, Logstash, Kibana)** – Log collection, search, and dashboarding
-- **Zeek** – Network traffic monitoring and log generation for analysis
-- **Suricata** – IDS/IPS engine for rule-based traffic detection
-- **Sysmon** – Host-level event logging for Windows systems
-
-## 📝 In Progress
-- Setting up and configuring tools and VMs in homelab
-- Completing THM SOC Level 1 (started Section 1)
-- Planning projects and exercises for Blue Team concepts
-
 ## 🎯 Goals & Milestones
 - ✅ Completed Google Cybersecurity Certificate
 - ✅ Passed CompTIA Security+ (target: June 2025)
@@ -38,3 +24,13 @@ Each capstone project is designed to reflect a critical SOC analyst skill area, 
 
 - [ ] **CP Lvl5 – Threat Hunting Engagement**  
   _Form a hypothesis using MITRE TTPs, hunt across logs using SIEM or ELK data, and document investigation results._
+
+
+## 🔧 Tools I’m Using
+- **Nmap** – Network scanning, port discovery, and service enumeration
+- **Wireshark** – Deep packet inspection and PCAP analysis
+- **Metasploit** – Exploitation framework for testing detection and defense
+- **ELK Stack (Elasticsearch, Logstash, Kibana)** – Log collection, search, and dashboarding
+- **Zeek** – Network traffic monitoring and log generation for analysis
+- **Suricata** – IDS/IPS engine for rule-based traffic detection
+- **Sysmon** – Host-level event logging for Windows systems
